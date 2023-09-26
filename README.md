@@ -19,7 +19,7 @@ ___
 - **Tecnología Electrónica**
 ___
 ## Cuatrimestre Q3
-- **Algoritmos**
+- **[Algoritmos](https://github.com/FerLS/Algoritmos/)**
 - **[Diseño Software](https://github.com/FerLS/DS/)**
 - **Estructura de Computadores**
 - **[Paradigmas de Programación](https://github.com/FerLS/PAPO)**
@@ -27,7 +27,7 @@ ___
 ___
 ## Cuatrimestre Q4
 - **Bases de Datos**
-- **Concurrencia y Paralelismo**
+- **[Concurrencia y Paralelismo](https://github.com/FerLS/CP)**
 - **Proceso Software**
 - **Redes**
 - **Sistemas Inteligentes**
