@@ -17,7 +17,7 @@ ___
 - **Álgebra**
 - **Estadística**
 - **Fundamentos de los Computadores**
-- **Programación II**
+- **[Programación II](https://github.com/FerLS/PRO2)**
 - **Tecnología Electrónica**
 ___
 ## Cuatrimestre Q3
