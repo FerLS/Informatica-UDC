@@ -1,5 +1,6 @@
 # Informatica - UDC
-<img src="https://www.intalent.udc.gal/wp-content/uploads/2017/06/03_Simbolo_logo_cor.png" width="400"/>‎‎‎‎‎‎‎‎ㅤㅤ<img src="https://yt3.googleusercontent.com/ytc/AOPolaQryi4088sSdPKuNPDFyfuFhhUAskx4tU-m24wR=s900-c-k-c0x00ffffff-no-rj" width="50"/> 
+
+<a href="https://udc.es"><img src="https://www.intalent.udc.gal/wp-content/uploads/2017/06/03_Simbolo_logo_cor.png" width="400"/></a>‎‎‎‎‎‎‎‎ㅤㅤ<a href="https://www.fic.udc.es"><img src="https://yt3.googleusercontent.com/ytc/AOPolaQryi4088sSdPKuNPDFyfuFhhUAskx4tU-m24wR=s900-c-k-c0x00ffffff-no-rj" width="50"/></a> 
 
 Practicas de las asignaturas de practicas de Ingeniería Informática en la UDC 2021 - XXXX
 
