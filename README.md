@@ -38,8 +38,8 @@ ___
 - **Gestión de Infraestructuras**
 - **Gestión de Proyectos**
 - **Interfaces Hombre Máquina**
-- **Internet y Sistemas Distribuidos**
-- **Legislación y Seguridad Informática**
+- **[Internet y Sistemas Distribuidos](https://github.com/FerLS/ISD)**
+- **[Legislación y Seguridad Informática](https://github.com/Meleagrista/udc-seguridad-informatica)**
 ___
 ## Cuatrimestre Q6
 _No disponible_
