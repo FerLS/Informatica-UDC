@@ -41,11 +41,15 @@ ___
 - **[Internet y Sistemas Distribuidos](https://github.com/FerLS/ISD)**
 - **[Legislación y Seguridad Informática](https://github.com/Meleagrista/udc-seguridad-informatica)**
 ___
-## Cuatrimestre Q6
-_No disponible_
+## Cuatrimestre Q6 - Computacion
+- **Recuperacion de de la Informacion**
+- **Desarrollo de Sistemas Inteligentes**
+- **[Representacion del Conocimiento y Razonamiento Automatico](https://github.com/FerLS/RCRA)**
+- **Teoria de la Computacion**
+- **[Aprendizaje Automatico](https://github.com/FerLS/AA)**
 ___
-## Cuatrimestre Q7
-_No disponible_
+## Cuatrimestre Q7 - Computacion
+_Cursado en Erasmus en el [POLIMI](https://www.polimi.it/)_
 ___
-## Cuatrimestre Q8
+## Cuatrimestre Q8 - Computacion
 _No disponible_
